@@ -1,5 +1,5 @@
 # PhotoGIMP Assets (Permissive Licensing)
-This repository contains PhotoGIMP assets that are free for people to include in any work they produce for any purpose without any licensing restrictions or attribution requirements. 
+This repository contains PhotoGIMP assets that are free for use in any work for any purpose without any licensing restrictions or attribution requirements. 
 
 Original repository: https://github.com/Diolinux/PhotoGIMP
 
